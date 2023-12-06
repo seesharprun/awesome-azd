@@ -1285,5 +1285,13 @@
     "author": "Paul Yuknewicz",
     "source": "https://github.com/Azure-Samples/function-python-ai-langchain",
     "tags": ["functions", "python", "ai", "msft", "new"]
+  },
+  {
+    "title": "ASP.NET Blazor chat application with Azure Cosmos DB for NoSQL, Azure Container Apps, and Azure OpenAI"    
+    "description": "A sample sample chat application deployed to Azure Container Apps that answers questions from the user and tracks chat history across conversations. Chat sessions and history is stored in Azure Cosmos DB for NoSQL and chat completions are provided by Azure OpenAI.",
+    "website": "https://learn.microsoft.com/azure/cosmos-db/nosql/",
+    "author": "Azure Cosmos DB Content Team",
+    "source": "https://github.com/Azure-Samples/chat-csharp-cosmos-db-nosql-openai",
+    "tags": [ "aca", "dotnetCsharp", "ai", "openai", "new", "cosmosdb", "msft"]
   }
 ]
